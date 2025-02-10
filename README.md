@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pragyandhar/Leetcode_Record/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pragyandhar/Leetcode_Record/tree/master/0046-permutations) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/pragyandhar/Leetcode_Record/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pragyandhar/Leetcode_Record/tree/master/0046-permutations) |
@@ -35,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pragyandhar/Leetcode_Record/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/pragyandhar/Leetcode_Record/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
