@@ -8,7 +8,7 @@ class Solution {
         if (end == -1) return word;
         int start = 0;
         int right = end;
-        while (start <= right) {
+        while (start < right) {
             char temp = charr[start];
             charr[start] = charr[right];
             charr[right] = temp;
