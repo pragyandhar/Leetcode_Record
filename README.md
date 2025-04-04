@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pragyandhar/Leetcode_Record/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0792-binary-search) |
 ## Backtracking
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/pragyandhar/Leetcode_Record/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/pragyandhar/Leetcode_Record/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/pragyandhar/Leetcode_Record/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/pragyandhar/Leetcode_Record/tree/master/0374-guess-number-higher-or-lower) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pragyandhar/Leetcode_Record/tree/master/0745-find-smallest-letter-greater-than-target) |
