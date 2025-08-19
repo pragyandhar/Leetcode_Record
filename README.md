@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyandhar/Leetcode_Record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/pragyandhar/Leetcode_Record/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/pragyandhar/Leetcode_Record/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyandhar/Leetcode_Record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/pragyandhar/Leetcode_Record/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0073-set-matrix-zeroes) |
 ## Greedy
 |  |
 | ------- |
