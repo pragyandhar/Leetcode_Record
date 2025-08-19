@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/pragyandhar/Leetcode_Record/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/pragyandhar/Leetcode_Record/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyandhar/Leetcode_Record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0063-unique-paths-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/pragyandhar/Leetcode_Record/tree/master/0131-palindrome-partitioning) |
 | [1008-binary-tree-cameras](https://github.com/pragyandhar/Leetcode_Record/tree/master/1008-binary-tree-cameras) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pragyandhar/Leetcode_Record/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0063-unique-paths-ii) |
 ## Greedy
 |  |
 | ------- |
