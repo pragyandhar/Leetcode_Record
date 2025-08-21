@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pragyandhar/Leetcode_Record/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Backtracking
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyandhar/Leetcode_Record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Matrix
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pragyandhar/Leetcode_Record/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
