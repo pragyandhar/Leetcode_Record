@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pragyandhar/Leetcode_Record/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0792-binary-search) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/pragyandhar/Leetcode_Record/tree/master/0131-palindrome-partitioning) |
 | [1008-binary-tree-cameras](https://github.com/pragyandhar/Leetcode_Record/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
 ## Bit Manipulation
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
 | ------- |
