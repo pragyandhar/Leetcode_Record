@@ -1,18 +1,21 @@
-public class Solution {
+class Solution {
     public String smallestNumber(String pattern) {
-        Stack<Integer> stack = new Stack<>();
-        StringBuilder result = new StringBuilder();
+        int n = pattern.length();
+        int count = 1;
+        String result = "";
+        Stack<String> num = new Stack<>();
 
-        for (int i = 0; i <= pattern.length(); i++) {
-            stack.push(i + 1);
+        for (int i = 0; i < n+1; i++) {
+            num.push(Integer.toString(count));
+            count++;
 
-            if (i == pattern.length() || pattern.charAt(i) == 'I') {
-                while (!stack.isEmpty()) {
-                    result.append(stack.pop());
+            if (i == n || pattern.charAt(i) == 'I') {
+                while (!num.isEmpty()) {
+                    result += num.peek();
+                    num.pop();
                 }
             }
         }
-
         return result.toString();
     }
 }
