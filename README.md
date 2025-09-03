@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/pragyandhar/Leetcode_Record/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
 | [0498-diagonal-traverse](https://github.com/pragyandhar/Leetcode_Record/tree/master/0498-diagonal-traverse) |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0064-minimum-path-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/pragyandhar/Leetcode_Record/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/pragyandhar/Leetcode_Record/tree/master/0198-house-robber) |
 | [0867-new-21-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0867-new-21-game) |
 | [1008-binary-tree-cameras](https://github.com/pragyandhar/Leetcode_Record/tree/master/1008-binary-tree-cameras) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1475-maximum-sum-bst-in-binary-tree) |
