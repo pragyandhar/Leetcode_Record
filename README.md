@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3830-find-closest-person](https://github.com/pragyandhar/Leetcode_Record/tree/master/3830-find-closest-person) |
 ## Sliding Window
 |  |
 | ------- |
