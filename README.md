@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/1250-longest-common-subsequence) |
 | [2128-reverse-prefix-of-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/2128-reverse-prefix-of-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/pragyandhar/Leetcode_Record/tree/master/0768-partition-labels) |
+| [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Matrix
 |  |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
+| [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 ## Tree
 |  |
 | ------- |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/pragyandhar/Leetcode_Record/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/pragyandhar/Leetcode_Record/tree/master/0449-serialize-and-deserialize-bst) |
+| [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 ## Counting
 |  |
 | ------- |
@@ -324,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
