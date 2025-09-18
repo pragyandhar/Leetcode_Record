@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0206-reverse-linked-list) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/pragyandhar/Leetcode_Record/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0662-maximum-width-of-binary-tree) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1008-binary-tree-cameras](https://github.com/pragyandhar/Leetcode_Record/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
