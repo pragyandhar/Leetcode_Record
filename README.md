@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0312-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/pragyandhar/Leetcode_Record/tree/master/0498-diagonal-traverse) |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pragyandhar/Leetcode_Record/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0312-burst-balloons) |
 | [0747-min-cost-climbing-stairs](https://github.com/pragyandhar/Leetcode_Record/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0867-new-21-game) |
 | [0967-minimum-falling-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0967-minimum-falling-path-sum) |
