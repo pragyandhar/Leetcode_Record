@@ -12,7 +12,7 @@ public:
 class Solution {
 public:
     Node* flatten(Node* head) {
-        if (head == NULL) {return head;}
+        if (head == NULL) return head;
         Node* curr = head;
         while (curr != NULL) {
             if (curr -> child != NULL) {
