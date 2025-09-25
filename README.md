@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/pragyandhar/Leetcode_Record/tree/master/1105-uncrossed-lines) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
+| [2048-build-array-from-permutation](https://github.com/pragyandhar/Leetcode_Record/tree/master/2048-build-array-from-permutation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/pragyandhar/Leetcode_Record/tree/master/0498-diagonal-traverse) |
+| [2048-build-array-from-permutation](https://github.com/pragyandhar/Leetcode_Record/tree/master/2048-build-array-from-permutation) |
 ## Probability and Statistics
 |  |
 | ------- |
