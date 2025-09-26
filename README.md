@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/pragyandhar/Leetcode_Record/tree/master/0498-diagonal-traverse) |
+| [0605-can-place-flowers](https://github.com/pragyandhar/Leetcode_Record/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pragyandhar/Leetcode_Record/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/pragyandhar/Leetcode_Record/tree/master/0747-min-cost-climbing-stairs) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/pragyandhar/Leetcode_Record/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/pragyandhar/Leetcode_Record/tree/master/0768-partition-labels) |
 | [1448-maximum-69-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/1448-maximum-69-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2456-construct-smallest-number-from-di-string) |
