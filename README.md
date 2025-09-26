@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pragyandhar/Leetcode_Record/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/pragyandhar/Leetcode_Record/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0792-binary-search) |
+| [0940-fruit-into-baskets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pragyandhar/Leetcode_Record/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0967-minimum-falling-path-sum) |
 | [1105-uncrossed-lines](https://github.com/pragyandhar/Leetcode_Record/tree/master/1105-uncrossed-lines) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/pragyandhar/Leetcode_Record/tree/master/0768-partition-labels) |
+| [0940-fruit-into-baskets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pragyandhar/Leetcode_Record/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
 | [0867-new-21-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0867-new-21-game) |
+| [0940-fruit-into-baskets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sorting
 |  |
