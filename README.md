@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pragyandhar/Leetcode_Record/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/0300-longest-increasing-subsequence) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/pragyandhar/Leetcode_Record/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/pragyandhar/Leetcode_Record/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/pragyandhar/Leetcode_Record/tree/master/0441-arranging-coins) |
 | [0867-new-21-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0867-new-21-game) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0204-count-primes) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Ordered Set
 |  |
@@ -402,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/pragyandhar/Leetcode_Record/tree/master/1039-find-the-town-judge) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
