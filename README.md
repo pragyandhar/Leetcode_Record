@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0312-burst-balloons) |
 | [0410-split-array-largest-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/pragyandhar/Leetcode_Record/tree/master/0498-diagonal-traverse) |
 | [0523-continuous-subarray-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0523-continuous-subarray-sum) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0410-split-array-largest-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/pragyandhar/Leetcode_Record/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/pragyandhar/Leetcode_Record/tree/master/0768-partition-labels) |
 | [1448-maximum-69-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/1448-maximum-69-number) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pragyandhar/Leetcode_Record/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pragyandhar/Leetcode_Record/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
