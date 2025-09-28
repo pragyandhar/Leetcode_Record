@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/pragyandhar/Leetcode_Record/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2294-minimum-time-to-complete-trips](https://github.com/pragyandhar/Leetcode_Record/tree/master/2294-minimum-time-to-complete-trips) |
 | [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pragyandhar/Leetcode_Record/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/pragyandhar/Leetcode_Record/tree/master/0907-koko-eating-bananas) |
+| [2294-minimum-time-to-complete-trips](https://github.com/pragyandhar/Leetcode_Record/tree/master/2294-minimum-time-to-complete-trips) |
 ## Interactive
 |  |
 | ------- |
