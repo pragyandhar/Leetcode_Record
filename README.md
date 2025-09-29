@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pragyandhar/Leetcode_Record/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/pragyandhar/Leetcode_Record/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/2128-reverse-prefix-of-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0940-fruit-into-baskets) |
 | [1039-find-the-town-judge](https://github.com/pragyandhar/Leetcode_Record/tree/master/1039-find-the-town-judge) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pragyandhar/Leetcode_Record/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/pragyandhar/Leetcode_Record/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Matrix
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/pragyandhar/Leetcode_Record/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/pragyandhar/Leetcode_Record/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
