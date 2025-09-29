@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pragyandhar/Leetcode_Record/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0215-kth-largest-element-in-an-array) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/pragyandhar/Leetcode_Record/tree/master/0498-diagonal-traverse) |
 | [0967-minimum-falling-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0967-minimum-falling-path-sum) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/pragyandhar/Leetcode_Record/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0662-maximum-width-of-binary-tree) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/pragyandhar/Leetcode_Record/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0662-maximum-width-of-binary-tree) |
@@ -492,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0215-kth-largest-element-in-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
