@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/pragyandhar/Leetcode_Record/tree/master/0449-serialize-and-deserialize-bst) |
 | [0768-partition-labels](https://github.com/pragyandhar/Leetcode_Record/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pragyandhar/Leetcode_Record/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2128-reverse-prefix-of-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/2128-reverse-prefix-of-word) |
@@ -442,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0204-count-primes) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
