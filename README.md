@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyandhar/Leetcode_Record/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyandhar/Leetcode_Record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragyandhar/Leetcode_Record/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0189-rotate-array) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pragyandhar/Leetcode_Record/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/pragyandhar/Leetcode_Record/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
