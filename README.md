@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pragyandhar/Leetcode_Record/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragyandhar/Leetcode_Record/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/pragyandhar/Leetcode_Record/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/2128-reverse-prefix-of-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/0713-subarray-product-less-than-k) |
 | [0867-new-21-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0940-fruit-into-baskets) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragyandhar/Leetcode_Record/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/pragyandhar/Leetcode_Record/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
