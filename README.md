@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0312-burst-balloons) |
+| [0406-queue-reconstruction-by-height](https://github.com/pragyandhar/Leetcode_Record/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/pragyandhar/Leetcode_Record/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/pragyandhar/Leetcode_Record/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/pragyandhar/Leetcode_Record/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/pragyandhar/Leetcode_Record/tree/master/0455-assign-cookies) |
@@ -529,4 +531,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/pragyandhar/Leetcode_Record/tree/master/0406-queue-reconstruction-by-height) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/pragyandhar/Leetcode_Record/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
