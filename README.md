@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/pragyandhar/Leetcode_Record/tree/master/2751-sliding-subarray-beauty) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/pragyandhar/Leetcode_Record/tree/master/0768-partition-labels) |
 | [1448-maximum-69-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/1448-maximum-69-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Stack
 |  |
 | ------- |
