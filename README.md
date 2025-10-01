@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/pragyandhar/Leetcode_Record/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/pragyandhar/Leetcode_Record/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/pragyandhar/Leetcode_Record/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/pragyandhar/Leetcode_Record/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pragyandhar/Leetcode_Record/tree/master/0954-maximum-sum-circular-subarray) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/pragyandhar/Leetcode_Record/tree/master/0605-can-place-flowers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pragyandhar/Leetcode_Record/tree/master/0646-maximum-length-of-pair-chain) |
 | [0768-partition-labels](https://github.com/pragyandhar/Leetcode_Record/tree/master/0768-partition-labels) |
+| [0890-lemonade-change](https://github.com/pragyandhar/Leetcode_Record/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/1448-maximum-69-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/2767-maximum-sum-with-exactly-k-elements) |
