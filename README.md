@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0967-minimum-falling-path-sum) |
 | [1039-find-the-town-judge](https://github.com/pragyandhar/Leetcode_Record/tree/master/1039-find-the-town-judge) |
 | [1105-uncrossed-lines](https://github.com/pragyandhar/Leetcode_Record/tree/master/1105-uncrossed-lines) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pragyandhar/Leetcode_Record/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pragyandhar/Leetcode_Record/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pragyandhar/Leetcode_Record/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/pragyandhar/Leetcode_Record/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/pragyandhar/Leetcode_Record/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/pragyandhar/Leetcode_Record/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pragyandhar/Leetcode_Record/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pragyandhar/Leetcode_Record/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragyandhar/Leetcode_Record/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pragyandhar/Leetcode_Record/tree/master/0628-maximum-product-of-three-numbers) |
 | [0867-new-21-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/1013-fibonacci-number) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pragyandhar/Leetcode_Record/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/1448-maximum-69-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
