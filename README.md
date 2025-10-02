@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/pragyandhar/Leetcode_Record/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/pragyandhar/Leetcode_Record/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0907-koko-eating-bananas](https://github.com/pragyandhar/Leetcode_Record/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/pragyandhar/Leetcode_Record/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pragyandhar/Leetcode_Record/tree/master/0954-maximum-sum-circular-subarray) |
 | [0967-minimum-falling-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0967-minimum-falling-path-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/pragyandhar/Leetcode_Record/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/pragyandhar/Leetcode_Record/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/pragyandhar/Leetcode_Record/tree/master/0902-minimum-number-of-refueling-stops) |
+| [0917-boats-to-save-people](https://github.com/pragyandhar/Leetcode_Record/tree/master/0917-boats-to-save-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pragyandhar/Leetcode_Record/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pragyandhar/Leetcode_Record/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/pragyandhar/Leetcode_Record/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/pragyandhar/Leetcode_Record/tree/master/0917-boats-to-save-people) |
 | [2128-reverse-prefix-of-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/2128-reverse-prefix-of-word) |
 ## Linked List
 |  |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pragyandhar/Leetcode_Record/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pragyandhar/Leetcode_Record/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
+| [0917-boats-to-save-people](https://github.com/pragyandhar/Leetcode_Record/tree/master/0917-boats-to-save-people) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pragyandhar/Leetcode_Record/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragyandhar/Leetcode_Record/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1829-maximum-units-on-a-truck](https://github.com/pragyandhar/Leetcode_Record/tree/master/1829-maximum-units-on-a-truck) |
