@@ -1,18 +1,22 @@
 class Solution {
-    public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        Subset(0, new ArrayList<>(), ans, nums);
-        return ans;
-    }
-    private void Subset(int idx, List<Integer> ds, List<List<Integer>> ans, int[] n) {
-        if (idx == n.length) {
-            ans.add(new ArrayList<>(ds));
+    List<List<Integer>> ans = new ArrayList<>();
+    private void helper(int index, int[] nums, List<Integer> path) {
+        // BASE CASE
+        if (index == nums.length) {
+            ans.add(new ArrayList<>(path));
             return;
         }
 
-        ds.add(n[idx]);
-        Subset(idx + 1, ds, ans, n);
-        ds.remove(ds.size() - 1);
-        Subset(idx + 1, ds, ans, n);
+        // Choice-1: Pick
+        path.add(nums[index]);
+        helper(index + 1, nums, path);
+
+        // Choice-2: Skip
+        path.remove(path.size() - 1);
+        helper(index + 1, nums, path);
+    }
+    public List<List<Integer>> subsets(int[] nums) {
+        helper(0, nums, new ArrayList<>());
+        return ans;
     }
 }
