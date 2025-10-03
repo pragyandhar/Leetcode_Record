@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pragyandhar/Leetcode_Record/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/pragyandhar/Leetcode_Record/tree/master/0455-assign-cookies) |
+| [0491-non-decreasing-subsequences](https://github.com/pragyandhar/Leetcode_Record/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/pragyandhar/Leetcode_Record/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/pragyandhar/Leetcode_Record/tree/master/0502-ipo) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/pragyandhar/Leetcode_Record/tree/master/0131-palindrome-partitioning) |
+| [0491-non-decreasing-subsequences](https://github.com/pragyandhar/Leetcode_Record/tree/master/0491-non-decreasing-subsequences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2456-construct-smallest-number-from-di-string) |
 ## String
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/pragyandhar/Leetcode_Record/tree/master/0342-power-of-four) |
+| [0491-non-decreasing-subsequences](https://github.com/pragyandhar/Leetcode_Record/tree/master/0491-non-decreasing-subsequences) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Table
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/pragyandhar/Leetcode_Record/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0491-non-decreasing-subsequences](https://github.com/pragyandhar/Leetcode_Record/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0567-permutation-in-string) |
