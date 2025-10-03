@@ -1,30 +1,28 @@
 class Solution {
-    public List<List<String>> partition(String s) {
-        List<List<String>> ans = new ArrayList<>();
-        List<String> part = new ArrayList<>();
-        PalinPart(0, s, ans, part);
-        return ans;
+    List<List<String>> ans = new ArrayList<>();
+    int n;
+    public boolean isPalindrome(String s, int l, int r) {
+        while (l < r) {
+            if (s.charAt(l++) != s.charAt(r--)) return false;
+        }
+        return true;
     }
-
-    private void PalinPart(int indx, String s, List<List<String>> ans, List<String> part) {
-        if (indx == s.length()) {
-            ans.add(new ArrayList<>(part));
+    public void helper(int index, String s, List<String> curr) {
+        n = s.length();
+        if (index == n) {
+            ans.add(new ArrayList<>(curr));
             return;
         }
-
-        for (int i = indx; i < s.length(); i++) {
-            if (isPalindrome (s, indx, i)) {
-                part.add(s.substring(indx, i+1));
-                PalinPart(i+1, s, ans, part);
-                part.remove(part.size()-1);
+        for (int i = index; i < n; i++) {
+            if(isPalindrome(s, index, i)) {
+                curr.add(s.substring(index, i+1));
+                helper(i+1, s, curr);
+                curr.remove(curr.size()-1);
             }
         }
     }
-    
-    private boolean isPalindrome(String s, int start, int end) {
-            while(start <= end) {
-                if (s.charAt(start++) != s.charAt(end--)) return false;
-            }
-            return true;
-        }
+    public List<List<String>> partition(String s) {
+        helper(0, s, new ArrayList<>());
+        return ans;
+    }
 }
