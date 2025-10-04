@@ -11,7 +11,7 @@ public:
             used[i] = 1;             // Mark
             curr.push_back(nums[i]); // Add it to current
             helper(nums, curr, used);// Recursive Call
-            curr.pop_back();
+            curr.pop_back();         // Unmark it - Backtrack
             used[i] = 0;
         }
     }
