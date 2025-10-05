@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyandhar/Leetcode_Record/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0088-merge-sorted-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/pragyandhar/Leetcode_Record/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/pragyandhar/Leetcode_Record/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/pragyandhar/Leetcode_Record/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0216-combination-sum-iii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/pragyandhar/Leetcode_Record/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pragyandhar/Leetcode_Record/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0179-largest-number) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pragyandhar/Leetcode_Record/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/pragyandhar/Leetcode_Record/tree/master/0498-diagonal-traverse) |
@@ -460,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
