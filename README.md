@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/pragyandhar/Leetcode_Record/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/pragyandhar/Leetcode_Record/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragyandhar/Leetcode_Record/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/pragyandhar/Leetcode_Record/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/pragyandhar/Leetcode_Record/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0204-count-primes) |
@@ -608,4 +610,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/pragyandhar/Leetcode_Record/tree/master/0406-queue-reconstruction-by-height) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pragyandhar/Leetcode_Record/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
