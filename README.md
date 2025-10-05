@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/pragyandhar/Leetcode_Record/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/pragyandhar/Leetcode_Record/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/pragyandhar/Leetcode_Record/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0063-unique-paths-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pragyandhar/Leetcode_Record/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/pragyandhar/Leetcode_Record/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0064-minimum-path-sum) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/pragyandhar/Leetcode_Record/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyandhar/Leetcode_Record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pragyandhar/Leetcode_Record/tree/master/0954-maximum-sum-circular-subarray) |
