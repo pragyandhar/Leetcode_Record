@@ -1,29 +1,36 @@
 class Solution {
     public void solveSudoku(char[][] board) {
-        SS(board);
+        solve(board);
     }
-    private boolean SS(char[][] b) {
+    boolean check(char board[][], int r, int c, char ch) {
         for (int i = 0; i < 9; i++) {
+            if (board[r][i] == ch) return false;
+            if (board[i][c] == ch) return false;
+        }
+
+        int sr = (r/3)*3;
+        int sc = (c/3)*3;
+        for (int i = sr; i < sr+3; i++) {
+            for (int j = sc; j < sc+3; j++) {
+                if (board[i][j] == ch) return false;
+            }
+        }
+        return true;
+    }
+    boolean solve(char[][] board) {
+        for(int i = 0; i < 9; i++) {
             for (int j = 0; j < 9; j++) {
-                if (b[i][j] == '.') {
-                    for (char c = '1'; c <= '9'; c++) {
-                        if (isValid(b, i, j, c)) {
-                            b[i][j] = c;
-                            if (SS(b) == true) return true;
-                            else b[i][j] = '.';
+                if (board[i][j] =='.') {
+                    for (char ch = '1'; ch <= '9'; ch++) {
+                        if (check(board, i, j, ch)) {
+                            board[i][j] = ch;
+                            if (solve(board)) return true;
+                            board[i][j] = '.';
                         }
                     }
                     return false;
                 }
             }
-        }
-        return true;
-    }
-    private boolean isValid(char[][] b, int row, int col, char c) {
-        for(int i = 0; i < 9; i++) {
-            if (b[i][col] == c) return false;
-            if (b[row][i] == c) return false;
-            if (b[3 * (row/3) + i / 3][3 * (col/3) + i % 3] == c) return false;
         }
         return true;
     }
