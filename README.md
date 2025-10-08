@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pragyandhar/Leetcode_Record/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/pragyandhar/Leetcode_Record/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/pragyandhar/Leetcode_Record/tree/master/0937-online-stock-span) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/pragyandhar/Leetcode_Record/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0234-palindrome-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
@@ -566,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/pragyandhar/Leetcode_Record/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pragyandhar/Leetcode_Record/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/pragyandhar/Leetcode_Record/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/1013-fibonacci-number) |
 ## Geometry
