@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/pragyandhar/Leetcode_Record/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0678-valid-parenthesis-string) |
+| [0937-online-stock-span](https://github.com/pragyandhar/Leetcode_Record/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
 | [2128-reverse-prefix-of-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/pragyandhar/Leetcode_Record/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/pragyandhar/Leetcode_Record/tree/master/0449-serialize-and-deserialize-bst) |
+| [0937-online-stock-span](https://github.com/pragyandhar/Leetcode_Record/tree/master/0937-online-stock-span) |
 | [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 ## Counting
 |  |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyandhar/Leetcode_Record/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/pragyandhar/Leetcode_Record/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
 ## Simulation
 |  |
@@ -644,4 +647,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pragyandhar/Leetcode_Record/tree/master/0062-unique-paths) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/pragyandhar/Leetcode_Record/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
