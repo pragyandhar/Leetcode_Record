@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/pragyandhar/Leetcode_Record/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/pragyandhar/Leetcode_Record/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pragyandhar/Leetcode_Record/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0179-largest-number) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/pragyandhar/Leetcode_Record/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyandhar/Leetcode_Record/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pragyandhar/Leetcode_Record/tree/master/0150-evaluate-reverse-polish-notation) |
