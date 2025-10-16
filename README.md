@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0662-maximum-width-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0794-swim-in-rising-water](https://github.com/pragyandhar/Leetcode_Record/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/pragyandhar/Leetcode_Record/tree/master/0801-is-graph-bipartite) |
 | [1008-binary-tree-cameras](https://github.com/pragyandhar/Leetcode_Record/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0449-serialize-and-deserialize-bst](https://github.com/pragyandhar/Leetcode_Record/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0662-maximum-width-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/pragyandhar/Leetcode_Record/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/pragyandhar/Leetcode_Record/tree/master/0801-is-graph-bipartite) |
 ## Design
 |  |
 | ------- |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0801-is-graph-bipartite](https://github.com/pragyandhar/Leetcode_Record/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/pragyandhar/Leetcode_Record/tree/master/1039-find-the-town-judge) |
 ## Number Theory
 |  |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/pragyandhar/Leetcode_Record/tree/master/0794-swim-in-rising-water) |
+| [0801-is-graph-bipartite](https://github.com/pragyandhar/Leetcode_Record/tree/master/0801-is-graph-bipartite) |
 ## Binary Indexed Tree
 |  |
 | ------- |
