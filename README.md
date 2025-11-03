@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pragyandhar/Leetcode_Record/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragyandhar/Leetcode_Record/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragyandhar/Leetcode_Record/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/pragyandhar/Leetcode_Record/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/pragyandhar/Leetcode_Record/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/pragyandhar/Leetcode_Record/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Two Pointers
