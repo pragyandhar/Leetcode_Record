@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/pragyandhar/Leetcode_Record/tree/master/0768-partition-labels) |
 | [0800-letter-case-permutation](https://github.com/pragyandhar/Leetcode_Record/tree/master/0800-letter-case-permutation) |
 | [0812-rotate-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/pragyandhar/Leetcode_Record/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pragyandhar/Leetcode_Record/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/pragyandhar/Leetcode_Record/tree/master/0890-lemonade-change) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/pragyandhar/Leetcode_Record/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0917-boats-to-save-people](https://github.com/pragyandhar/Leetcode_Record/tree/master/0917-boats-to-save-people) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/pragyandhar/Leetcode_Record/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pragyandhar/Leetcode_Record/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/pragyandhar/Leetcode_Record/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0678-valid-parenthesis-string) |
 | [0937-online-stock-span](https://github.com/pragyandhar/Leetcode_Record/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/pragyandhar/Leetcode_Record/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/1078-remove-outermost-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
