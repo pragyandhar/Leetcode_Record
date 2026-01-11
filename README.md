@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyandhar/Leetcode_Record/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyandhar/Leetcode_Record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/pragyandhar/Leetcode_Record/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pragyandhar/Leetcode_Record/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pragyandhar/Leetcode_Record/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/pragyandhar/Leetcode_Record/tree/master/0498-diagonal-traverse) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/pragyandhar/Leetcode_Record/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyandhar/Leetcode_Record/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/pragyandhar/Leetcode_Record/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0143-reorder-list) |
@@ -623,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/pragyandhar/Leetcode_Record/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/pragyandhar/Leetcode_Record/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
