@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0312-burst-balloons) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/pragyandhar/Leetcode_Record/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pragyandhar/Leetcode_Record/tree/master/0417-pacific-atlantic-water-flow) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pragyandhar/Leetcode_Record/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/pragyandhar/Leetcode_Record/tree/master/0498-diagonal-traverse) |
 | [0794-swim-in-rising-water](https://github.com/pragyandhar/Leetcode_Record/tree/master/0794-swim-in-rising-water) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/pragyandhar/Leetcode_Record/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/pragyandhar/Leetcode_Record/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/pragyandhar/Leetcode_Record/tree/master/0441-arranging-coins) |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0406-queue-reconstruction-by-height](https://github.com/pragyandhar/Leetcode_Record/tree/master/0406-queue-reconstruction-by-height) |
 | [0435-non-overlapping-intervals](https://github.com/pragyandhar/Leetcode_Record/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/pragyandhar/Leetcode_Record/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/pragyandhar/Leetcode_Record/tree/master/0794-swim-in-rising-water) |
