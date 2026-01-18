@@ -1,3 +1,4 @@
+/* DYNAMIC SIZE SLIDING WINDOW */
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
