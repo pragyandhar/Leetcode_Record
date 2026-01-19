@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2681-power-of-heroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/2681-power-of-heroes) |
 | [2751-sliding-subarray-beauty](https://github.com/pragyandhar/Leetcode_Record/tree/master/2751-sliding-subarray-beauty) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
+| [2681-power-of-heroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/2681-power-of-heroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/pragyandhar/Leetcode_Record/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2681-power-of-heroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/2681-power-of-heroes) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3830-find-closest-person](https://github.com/pragyandhar/Leetcode_Record/tree/master/3830-find-closest-person) |
 ## Sliding Window
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/pragyandhar/Leetcode_Record/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/pragyandhar/Leetcode_Record/tree/master/1829-maximum-units-on-a-truck) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2681-power-of-heroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/2681-power-of-heroes) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pragyandhar/Leetcode_Record/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -715,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/pragyandhar/Leetcode_Record/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pragyandhar/Leetcode_Record/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/1603-running-sum-of-1d-array) |
+| [2681-power-of-heroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/2681-power-of-heroes) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/pragyandhar/Leetcode_Record/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pragyandhar/Leetcode_Record/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Queue
