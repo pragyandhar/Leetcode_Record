@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pragyandhar/Leetcode_Record/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/pragyandhar/Leetcode_Record/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2681-power-of-heroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/2681-power-of-heroes) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pragyandhar/Leetcode_Record/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pragyandhar/Leetcode_Record/tree/master/3748-sort-matrix-by-diagonals) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0204-count-primes) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pragyandhar/Leetcode_Record/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Ordered Set
 |  |
