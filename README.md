@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pragyandhar/Leetcode_Record/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pragyandhar/Leetcode_Record/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragyandhar/Leetcode_Record/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/pragyandhar/Leetcode_Record/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/pragyandhar/Leetcode_Record/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/pragyandhar/Leetcode_Record/tree/master/0800-letter-case-permutation) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pragyandhar/Leetcode_Record/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Table
 |  |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/pragyandhar/Leetcode_Record/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pragyandhar/Leetcode_Record/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2048-build-array-from-permutation](https://github.com/pragyandhar/Leetcode_Record/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/2058-concatenation-of-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pragyandhar/Leetcode_Record/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
