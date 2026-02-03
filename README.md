@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/pragyandhar/Leetcode_Record/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/pragyandhar/Leetcode_Record/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pragyandhar/Leetcode_Record/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/pragyandhar/Leetcode_Record/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/pragyandhar/Leetcode_Record/tree/master/0800-letter-case-permutation) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/pragyandhar/Leetcode_Record/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/pragyandhar/Leetcode_Record/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pragyandhar/Leetcode_Record/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/pragyandhar/Leetcode_Record/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/pragyandhar/Leetcode_Record/tree/master/0441-arranging-coins) |
@@ -699,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/pragyandhar/Leetcode_Record/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/pragyandhar/Leetcode_Record/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/pragyandhar/Leetcode_Record/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0509-fibonacci-number) |
