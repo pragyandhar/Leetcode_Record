@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/pragyandhar/Leetcode_Record/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/pragyandhar/Leetcode_Record/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pragyandhar/Leetcode_Record/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pragyandhar/Leetcode_Record/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/pragyandhar/Leetcode_Record/tree/master/0491-non-decreasing-subsequences) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/pragyandhar/Leetcode_Record/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pragyandhar/Leetcode_Record/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/pragyandhar/Leetcode_Record/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pragyandhar/Leetcode_Record/tree/master/0954-maximum-sum-circular-subarray) |
