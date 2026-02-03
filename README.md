@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2211-k-radius-subarray-averages](https://github.com/pragyandhar/Leetcode_Record/tree/master/2211-k-radius-subarray-averages) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/pragyandhar/Leetcode_Record/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/pragyandhar/Leetcode_Record/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2294-minimum-time-to-complete-trips](https://github.com/pragyandhar/Leetcode_Record/tree/master/2294-minimum-time-to-complete-trips) |
 | [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/2128-reverse-prefix-of-word) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/pragyandhar/Leetcode_Record/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Two Pointers
 |  |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0234-palindrome-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0908-middle-of-the-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/pragyandhar/Leetcode_Record/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Binary Search
 |  |
 | ------- |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/pragyandhar/Leetcode_Record/tree/master/0937-online-stock-span) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/pragyandhar/Leetcode_Record/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Simulation
 |  |
 | ------- |
