@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragyandhar/Leetcode_Record/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1829-maximum-units-on-a-truck](https://github.com/pragyandhar/Leetcode_Record/tree/master/1829-maximum-units-on-a-truck) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/pragyandhar/Leetcode_Record/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/pragyandhar/Leetcode_Record/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/pragyandhar/Leetcode_Record/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/pragyandhar/Leetcode_Record/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/1448-maximum-69-number) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/pragyandhar/Leetcode_Record/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/pragyandhar/Leetcode_Record/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
