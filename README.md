@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/pragyandhar/Leetcode_Record/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/pragyandhar/Leetcode_Record/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/pragyandhar/Leetcode_Record/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0216-combination-sum-iii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/pragyandhar/Leetcode_Record/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
 | [0342-power-of-four](https://github.com/pragyandhar/Leetcode_Record/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/pragyandhar/Leetcode_Record/tree/master/0491-non-decreasing-subsequences) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/pragyandhar/Leetcode_Record/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/pragyandhar/Leetcode_Record/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/pragyandhar/Leetcode_Record/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/pragyandhar/Leetcode_Record/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0204-count-primes) |
