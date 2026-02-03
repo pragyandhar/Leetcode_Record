@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0908-middle-of-the-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/pragyandhar/Leetcode_Record/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pragyandhar/Leetcode_Record/tree/master/0417-pacific-atlantic-water-flow) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0449-serialize-and-deserialize-bst](https://github.com/pragyandhar/Leetcode_Record/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0662-maximum-width-of-binary-tree) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Memoization
 |  |
