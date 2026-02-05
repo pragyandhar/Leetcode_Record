@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/pragyandhar/Leetcode_Record/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0216-combination-sum-iii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/pragyandhar/Leetcode_Record/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/pragyandhar/Leetcode_Record/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/pragyandhar/Leetcode_Record/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/pragyandhar/Leetcode_Record/tree/master/0800-letter-case-permutation) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/pragyandhar/Leetcode_Record/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/pragyandhar/Leetcode_Record/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pragyandhar/Leetcode_Record/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/pragyandhar/Leetcode_Record/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pragyandhar/Leetcode_Record/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pragyandhar/Leetcode_Record/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/pragyandhar/Leetcode_Record/tree/master/0498-diagonal-traverse) |
@@ -828,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/pragyandhar/Leetcode_Record/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/pragyandhar/Leetcode_Record/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
