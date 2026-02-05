@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
+| [3379-transformed-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/pragyandhar/Leetcode_Record/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/pragyandhar/Leetcode_Record/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pragyandhar/Leetcode_Record/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2048-build-array-from-permutation](https://github.com/pragyandhar/Leetcode_Record/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/2058-concatenation-of-array) |
+| [3379-transformed-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/3379-transformed-array) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/pragyandhar/Leetcode_Record/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Probability and Statistics
 |  |
