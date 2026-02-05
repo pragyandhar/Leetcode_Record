@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/pragyandhar/Leetcode_Record/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/pragyandhar/Leetcode_Record/tree/master/0646-maximum-length-of-pair-chain) |
+| [0648-replace-words](https://github.com/pragyandhar/Leetcode_Record/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/pragyandhar/Leetcode_Record/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/0713-subarray-product-less-than-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/pragyandhar/Leetcode_Record/tree/master/0449-serialize-and-deserialize-bst) |
 | [0567-permutation-in-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/pragyandhar/Leetcode_Record/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/pragyandhar/Leetcode_Record/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/pragyandhar/Leetcode_Record/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/pragyandhar/Leetcode_Record/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/pragyandhar/Leetcode_Record/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/pragyandhar/Leetcode_Record/tree/master/0768-partition-labels) |
 | [0940-fruit-into-baskets](https://github.com/pragyandhar/Leetcode_Record/tree/master/0940-fruit-into-baskets) |
@@ -825,5 +828,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/pragyandhar/Leetcode_Record/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/pragyandhar/Leetcode_Record/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
