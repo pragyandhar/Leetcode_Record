@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-power-of-heroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/2681-power-of-heroes) |
 | [2751-sliding-subarray-beauty](https://github.com/pragyandhar/Leetcode_Record/tree/master/2751-sliding-subarray-beauty) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pragyandhar/Leetcode_Record/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/pragyandhar/Leetcode_Record/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/pragyandhar/Leetcode_Record/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
