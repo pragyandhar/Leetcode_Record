@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 | [3798-largest-even-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/3798-largest-even-number) |
 ## Dynamic Programming
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
 | [2681-power-of-heroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/2681-power-of-heroes) |
+| [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/pragyandhar/Leetcode_Record/tree/master/0917-boats-to-save-people) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pragyandhar/Leetcode_Record/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2128-reverse-prefix-of-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/2128-reverse-prefix-of-word) |
+| [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 ## Linked List
 |  |
 | ------- |
