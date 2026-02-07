@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/pragyandhar/Leetcode_Record/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragyandhar/Leetcode_Record/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/pragyandhar/Leetcode_Record/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/pragyandhar/Leetcode_Record/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/pragyandhar/Leetcode_Record/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/pragyandhar/Leetcode_Record/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2681-power-of-heroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/2681-power-of-heroes) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 ## Bit Manipulation
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pragyandhar/Leetcode_Record/tree/master/1628-count-submatrices-with-all-ones) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/pragyandhar/Leetcode_Record/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/pragyandhar/Leetcode_Record/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/2128-reverse-prefix-of-word) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/pragyandhar/Leetcode_Record/tree/master/2289-steps-to-make-array-non-decreasing) |
