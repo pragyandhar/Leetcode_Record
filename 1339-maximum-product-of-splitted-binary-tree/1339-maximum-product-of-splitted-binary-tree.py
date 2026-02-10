@@ -6,14 +6,27 @@
 #         self.right = right
 class Solution:
     def maxProduct(self, root: Optional[TreeNode]) -> int:
-        ans, total=-inf, 0
-        def dfs(root):
-            nonlocal ans, total
-            if not root: return 0
-            Sum=root.val+dfs(root.left)+dfs(root.right)
-            ans=max(ans, (total-Sum)*Sum)
-            return Sum
-        total=dfs(root)
-        dfs(root)
-        return ans%(10**9+7)
-               
+        # DFS to calculate the sum of all the nodes of the entire tree
+        def sum_of_tree(node: Optional[TreeNode]) -> int:
+            if node is None:
+                return 0
+            return node.val + sum_of_tree(node.left) + sum_of_tree(node.right)
+
+        # Iterate and find the maximum product
+        def find_max_product(node: Optional[TreeNode]) -> int:
+            if node is None:
+                return 0
+            subtree_sum = node.val + find_max_product(node.left) + find_max_product(node.right)
+            nonlocal ans, total_tree_sum
+            if total_tree_sum > subtree_sum:
+                ans = max(ans, subtree_sum*(total_tree_sum - subtree_sum))
+            return subtree_sum
+
+        # Define Constraint
+        MOD = 10**9+7
+        total_tree_sum = sum_of_tree(root)
+        ans = 0
+        find_max_product(root)
+        return ans % MOD
+                
+        
