@@ -598,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/pragyandhar/Leetcode_Record/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/pragyandhar/Leetcode_Record/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1008-binary-tree-cameras](https://github.com/pragyandhar/Leetcode_Record/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/pragyandhar/Leetcode_Record/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/pragyandhar/Leetcode_Record/tree/master/0801-is-graph-bipartite) |
 | [1008-binary-tree-cameras](https://github.com/pragyandhar/Leetcode_Record/tree/master/1008-binary-tree-cameras) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/pragyandhar/Leetcode_Record/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/pragyandhar/Leetcode_Record/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
