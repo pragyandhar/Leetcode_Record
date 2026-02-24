@@ -1,20 +1,18 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        def backtrack(index: int) -> None:
-            if index >= n:
-                result.append(current_permutation[:])
-                return
-            for j, num in enumerate(nums):
-                if not used[j]:
-                    used[j] = True
-                    current_permutation[index] = num
-                    backtrack(index + 1)
-                    used[j] = False
-      
-        n = len(nums)
-        used = [False] * n  
-        current_permutation = [0] * n
-        result = []
-        backtrack(0)
-      
+        result = list()
+
+        # Base Case
+        if len(nums) == 1:
+            return [nums[:]]
+        
+        for i in range(len(nums)):
+            n = nums.pop(0)
+            perm = self.permute(nums)
+
+            for p in perm:
+                p.append(n)
+            result.extend(perm)
+            nums.append(n)
+        
         return result
