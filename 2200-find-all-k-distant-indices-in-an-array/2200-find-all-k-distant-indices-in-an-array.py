@@ -1,21 +1,23 @@
 class Solution:
     def findKDistantIndices(self, nums: List[int], key: int, k: int) -> List[int]:
-        # Find the j
-        index = []
-
+        is_valid = [False] * len(nums)
+        
+        last_index = float('-inf')
+        # Forward Pass
         for i in range(0, len(nums)):
             if nums[i] == key:
-                index.append(i) 
+                last_index = i
+            
+            if abs(i - last_index) <= k:
+                is_valid[i] = [True]
 
-        # OBJECTIVE ACHIEVED SO FAR: Now my index has all the indexes that are going to be used in |i-j|<=k
-
-        result = []
-
-        for i in range(0, len(nums)):
-            ans = float('inf')
-            for j in index:
-                ans = min(abs(i-j), ans)
-            if ans <= k:
-                result.append(i)
+        last_index = float('-inf')
+        # Backward Pass
+        for i in range(len(nums) - 1, -1, -1):
+            if nums[i] == key:
+                last_index = i
+            
+            if abs(i - last_index) <= k:
+                is_valid[i] = [True]
         
-        return result
+        return [i for i in range(len(nums)) if is_valid[i]]
