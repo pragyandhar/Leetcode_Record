@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/pragyandhar/Leetcode_Record/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/2058-concatenation-of-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2211-k-radius-subarray-averages](https://github.com/pragyandhar/Leetcode_Record/tree/master/2211-k-radius-subarray-averages) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/pragyandhar/Leetcode_Record/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/pragyandhar/Leetcode_Record/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/pragyandhar/Leetcode_Record/tree/master/1768-merge-strings-alternately) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pragyandhar/Leetcode_Record/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2128-reverse-prefix-of-word](https://github.com/pragyandhar/Leetcode_Record/tree/master/2128-reverse-prefix-of-word) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [3504-longest-palindrome-after-substring-concatenation-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3504-longest-palindrome-after-substring-concatenation-ii) |
 ## Linked List
 |  |
