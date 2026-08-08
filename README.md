@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/pragyandhar/Leetcode_Record/tree/master/1829-maximum-units-on-a-truck) |
 | [2048-build-array-from-permutation](https://github.com/pragyandhar/Leetcode_Record/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/2058-concatenation-of-array) |
+| [2090-k-radius-subarray-averages](https://github.com/pragyandhar/Leetcode_Record/tree/master/2090-k-radius-subarray-averages) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pragyandhar/Leetcode_Record/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2211-k-radius-subarray-averages](https://github.com/pragyandhar/Leetcode_Record/tree/master/2211-k-radius-subarray-averages) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pragyandhar/Leetcode_Record/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/pragyandhar/Leetcode_Record/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2090-k-radius-subarray-averages](https://github.com/pragyandhar/Leetcode_Record/tree/master/2090-k-radius-subarray-averages) |
 | [2211-k-radius-subarray-averages](https://github.com/pragyandhar/Leetcode_Record/tree/master/2211-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/pragyandhar/Leetcode_Record/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
