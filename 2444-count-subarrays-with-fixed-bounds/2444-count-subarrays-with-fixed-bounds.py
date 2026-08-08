@@ -14,8 +14,10 @@ class Solution:
             if num == maxK:
                 maxKPos = i
             
-            smaller = min(minKPos, maxKPos)
-            temp = smaller - culpritIdx
-            ans += 0 if temp <= 0 else temp
-        
+            # smaller = min(minKPos, maxKPos)
+            # temp = smaller - culpritIdx
+            # ans += 0 if temp <= 0 else temp
+
+            ans += max(0, min(minKPos, maxKPos) - culpritIdx)
+
         return ans
