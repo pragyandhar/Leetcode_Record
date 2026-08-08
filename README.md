@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/pragyandhar/Leetcode_Record/tree/master/2294-minimum-time-to-complete-trips) |
 | [2429-design-a-food-rating-system](https://github.com/pragyandhar/Leetcode_Record/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/pragyandhar/Leetcode_Record/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/pragyandhar/Leetcode_Record/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2681-power-of-heroes](https://github.com/pragyandhar/Leetcode_Record/tree/master/2681-power-of-heroes) |
 | [2751-sliding-subarray-beauty](https://github.com/pragyandhar/Leetcode_Record/tree/master/2751-sliding-subarray-beauty) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pragyandhar/Leetcode_Record/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/pragyandhar/Leetcode_Record/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/pragyandhar/Leetcode_Record/tree/master/2211-k-radius-subarray-averages) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/pragyandhar/Leetcode_Record/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pragyandhar/Leetcode_Record/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2751-sliding-subarray-beauty](https://github.com/pragyandhar/Leetcode_Record/tree/master/2751-sliding-subarray-beauty) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -808,11 +810,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/pragyandhar/Leetcode_Record/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pragyandhar/Leetcode_Record/tree/master/0954-maximum-sum-circular-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/pragyandhar/Leetcode_Record/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pragyandhar/Leetcode_Record/tree/master/0954-maximum-sum-circular-subarray) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/pragyandhar/Leetcode_Record/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Graph
 |  |
 | ------- |
