@@ -885,4 +885,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/pragyandhar/Leetcode_Record/tree/master/0648-replace-words) |
 | [0692-top-k-frequent-words](https://github.com/pragyandhar/Leetcode_Record/tree/master/0692-top-k-frequent-words) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
