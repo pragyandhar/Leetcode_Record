@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/pragyandhar/Leetcode_Record/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0347-top-k-frequent-elements) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/pragyandhar/Leetcode_Record/tree/master/0090-subsets-ii) |
 | [0191-number-of-1-bits](https://github.com/pragyandhar/Leetcode_Record/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/pragyandhar/Leetcode_Record/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/pragyandhar/Leetcode_Record/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/pragyandhar/Leetcode_Record/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/pragyandhar/Leetcode_Record/tree/master/0491-non-decreasing-subsequences) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyandhar/Leetcode_Record/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pragyandhar/Leetcode_Record/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/pragyandhar/Leetcode_Record/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/pragyandhar/Leetcode_Record/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/pragyandhar/Leetcode_Record/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/pragyandhar/Leetcode_Record/tree/master/0658-find-k-closest-elements) |
@@ -472,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pragyandhar/Leetcode_Record/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pragyandhar/Leetcode_Record/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/pragyandhar/Leetcode_Record/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/pragyandhar/Leetcode_Record/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/pragyandhar/Leetcode_Record/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/pragyandhar/Leetcode_Record/tree/master/0374-guess-number-higher-or-lower) |
@@ -894,4 +898,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/pragyandhar/Leetcode_Record/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pragyandhar/Leetcode_Record/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
